@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 27 Sep 2015 19:19:43 +0200
+Source: amxa-guard
+Binary: amxa-guard
+Architecture: source all
+Version: 1.0-1ubuntu1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@alle-lap-001.basel.opinsys.fi>
+Description: 
+ amxa-guard - Runs Local Webfilter
+Changes: 
+ amxa-guard (1.0-1ubuntu1) UNRELEASED; urgency=medium
+ .
+   * initial
+Checksums-Sha1: 
+ 9f838397f3eee6c4b5e838776c7c9006270ce6c6 585 amxa-guard_1.0-1ubuntu1.dsc
+ de4778750f4bdc750d524371f536e14ccb46339f 12064 amxa-guard_1.0-1ubuntu1.tar.gz
+ 66043ad71d04e7fc7a86d2ab9ad217e3c76c30ff 1136 amxa-guard_1.0-1ubuntu1_all.deb
+Checksums-Sha256: 
+ 58916c0fad3e5a2a7034410dc6874d171588dfb31c8174d13e456d3013f21abf 585 amxa-guard_1.0-1ubuntu1.dsc
+ d51ea8832bf08c78c46fcad9a39bc8a79772949ad07789a1ce912a335da6bd83 12064 amxa-guard_1.0-1ubuntu1.tar.gz
+ 23570821e6af0f15aa144c8b3fbd86c721350fc8c921c853149de9f43fc7531a 1136 amxa-guard_1.0-1ubuntu1_all.deb
+Files: 
+ f1d485e13734ea1b4ced5b601e8be550 585 unknown optional amxa-guard_1.0-1ubuntu1.dsc
+ ec47dce89de72403c69474da5df13776 12064 unknown optional amxa-guard_1.0-1ubuntu1.tar.gz
+ f6bcf8afd2fbdef0af1c35b1a179f793 1136 unknown optional amxa-guard_1.0-1ubuntu1_all.deb
