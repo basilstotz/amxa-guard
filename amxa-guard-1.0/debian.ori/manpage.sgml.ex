@@ -26,8 +26,8 @@ manpage.1: manpage.sgml
   <!ENTITY dhsection   "<manvolnum>SECTION</manvolnum>">
   <!ENTITY dhemail     "<email>stotz@amxa.ch</email>">
   <!ENTITY dhusername  "Basil Stotz">
-  <!ENTITY dhucpackage "<refentrytitle>ANXA-GUARD</refentrytitle>">
-  <!ENTITY dhpackage   "anxa-guard">
+  <!ENTITY dhucpackage "<refentrytitle>AMXA-GUARD</refentrytitle>">
+  <!ENTITY dhpackage   "amxa-guard">
 
   <!ENTITY debian      "<productname>Debian</productname>">
   <!ENTITY gnu         "<acronym>GNU</acronym>">

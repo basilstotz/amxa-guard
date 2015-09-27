@@ -1,5 +1,5 @@
 #!/bin/sh
-# postrm script for anxa-guard
+# postrm script for amxa-guard
 #
 # see: dh_installdeb(1)
 

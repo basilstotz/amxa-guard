@@ -1,5 +1,5 @@
 TARGETS = init build clean publish
-NAME = "anxa-guard"
+NAME = "amxa-guard"
 
 .PHONY: ${TARGETS}
 .PHONY: help

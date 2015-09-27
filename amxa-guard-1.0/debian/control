@@ -1,0 +1,16 @@
+Source: amxa-guard
+Section: unknown
+Priority: optional
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/amxa-guard.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/amxa-guard.git;a=summary
+
+Package: amxa-guard
+Architecture: all
+Depends: ${misc:Depends},iptables,squid3,squidguard
+Description: Runs Local Webfilter
+ Runs Local Webfilter
+ 

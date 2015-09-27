@@ -8,16 +8,16 @@ version=3
 
 # Uncomment to examine a Webpage
 # <Webpage URL> <string match>
-#http://www.example.com/downloads.php anxa-guard-(.*)\.tar\.gz
+#http://www.example.com/downloads.php amxa-guard-(.*)\.tar\.gz
 
 # Uncomment to examine a Webserver directory
-#http://www.example.com/pub/anxa-guard-(.*)\.tar\.gz
+#http://www.example.com/pub/amxa-guard-(.*)\.tar\.gz
 
 # Uncommment to examine a FTP server
-#ftp://ftp.example.com/pub/anxa-guard-(.*)\.tar\.gz debian uupdate
+#ftp://ftp.example.com/pub/amxa-guard-(.*)\.tar\.gz debian uupdate
 
 # Uncomment to find new files on sourceforge, for devscripts >= 2.9
-# http://sf.net/anxa-guard/anxa-guard-(.*)\.tar\.gz
+# http://sf.net/amxa-guard/amxa-guard-(.*)\.tar\.gz
 
 # Uncomment to find new files on GooglePages
-# http://example.googlepages.com/foo.html anxa-guard-(.*)\.tar\.gz
+# http://example.googlepages.com/foo.html amxa-guard-(.*)\.tar\.gz
