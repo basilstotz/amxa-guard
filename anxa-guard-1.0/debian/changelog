@@ -1,0 +1,5 @@
+anxa-guard (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Basil Stotz <stotz@amxa.ch>  Sun, 27 Sep 2015 16:46:34 +0200
